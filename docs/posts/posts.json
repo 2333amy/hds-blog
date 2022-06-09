@@ -1,5 +1,22 @@
 [
   {
+    "path": "posts/2022-06-09-i-love-blogging/",
+    "title": "I love Blogging",
+    "description": "A short description of the post.",
+    "author": [
+      {
+        "name": "Zhengyang Dong",
+        "url": "https://2333amy.github.io/hds-blog/"
+      }
+    ],
+    "date": "2022-06-09",
+    "categories": [],
+    "contents": "\nI Love it!\n\n\nplot(iris)\n\n\n\n\nDistill is a publication format for scientific and technical writing,\nnative to the web.\nLearn more about using Distill at https://rstudio.github.io/distill.\n\n\n\n",
+    "preview": "posts/2022-06-09-i-love-blogging/i-love-blogging_files/figure-html5/unnamed-chunk-1-1.png",
+    "last_modified": "2022-06-09T16:02:16+10:00",
+    "input_file": {}
+  },
+  {
     "path": "posts/welcome/",
     "title": "Welcome to My Health Data Blog",
     "description": "Welcome to our new blog, My Health Data Blog. We hope you enjoy \nreading what we have to say!",

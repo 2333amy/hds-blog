@@ -2,7 +2,7 @@ name: "."
 title: "My Health Data Blog"
 description: |
   My Health Data Blog
-output_dir: "_docs"
+output_dir: "docs"
 navbar:
   right:
     - text: "Home"

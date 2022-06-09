@@ -4,10 +4,10 @@ description: |
   Welcome to our new blog, My Health Data Blog. We hope you enjoy 
   reading what we have to say!
 author:
-  - name: Nora Jones 
-    url: https://example.com/norajones
-    affiliation: Spacely Sprockets
-    affiliation_url: https://example.com/spacelysprokets
+  - name: Zhengyang (Amy) Dong 
+    url: https://2333amy.github.io/hds-blog/
+    affiliation: None
+    affiliation_url: 
 date: 06-09-2022
 output:
   distill::distill_article:
